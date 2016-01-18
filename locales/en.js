@@ -32,7 +32,7 @@ address_1:
 address_2:
 "Street Address 2",
 city:
-"City",
+"Stadt",
 postal_code:
 "ZIP / Postal code",
 phone:
